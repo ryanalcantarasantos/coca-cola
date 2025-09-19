@@ -8,7 +8,7 @@ body{
     flex-direction: column;
     width: 100vw;
     height: 100vh;
-    background: linear-gradient(#000000,#2a2626 50%,#4f4545 60%,#b7b7b7);
+    background: linear-gradient(#fe4343,#790000 50%,#570303 60%,#2e0101);
 }
 .background-image{
     position: absolute;
@@ -41,7 +41,7 @@ main{
 
 .context-text{
     position: absolute;
-    color: #fff;
+    color: aliceblue;
     font-size: 2.25rem;
     width: 212px;
     transform: translateX(-100%);
@@ -83,3 +83,4 @@ footer{
         margin-right:25px; 
       }
   }
+  
